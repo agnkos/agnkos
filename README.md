@@ -7,13 +7,17 @@
 
 <h3>About me</h3>
 
-- 🌱 I’m currently learning JS & React.js, planning to learn TS
+- 💻 I like writing code in React and solving JS challenges
 
-- 📫 How to reach me: <a href="https://linkedin.com/in/https://www.linkedin.com/in/agnieszkakosiedowska/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agnieszkakosiedowska/" height="13" /></a>
+- 🚀 I'm currently learning TS and exploring Firebase
+
+- 📫 How to reach me: <a href="https://linkedin.com/in/https://www.linkedin.com/in/agnieszkakosiedowska/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/agnieszkakosiedowska/" height="25" /></a>
+
+- <a href="https://agnkos.github.io/portfolio" target="blank">My portfolio</a>
 
 <h3>Some tools I have used and learned</h3>
 
-<img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" alt="css3" width="40" height="40"/> <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-256.png" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-256.png" alt="sass" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" alt="css3" width="40" height="40"/> <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-256.png" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-256.png" alt="sass" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agnkos&show_icons=true&locale=en" alt="agnkos" /></p>
