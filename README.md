@@ -15,7 +15,7 @@
 
 - <a href="https://agnkos.github.io/portfolio" target="blank">My portfolio</a>
 
-<h3>Some tools I have used and learned</h3>
+<h3>Some tools I have used and learnt</h3>
 
 <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" alt="css3" width="40" height="40"/> <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-256.png" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-256.png" alt="sass" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
 
