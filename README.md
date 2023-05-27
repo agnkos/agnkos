@@ -14,6 +14,7 @@
 - 📫 How to reach me: <a href="https://linkedin.com/in/https://www.linkedin.com/in/agnieszkakosiedowska/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/agnieszkakosiedowska/" height="25" /></a>
 
 - <a href="https://agnkos.github.io/portfolio" target="blank">My portfolio</a>
+- 🔭 Currently working on: <a href="https://github.com/agnkos/knit-app">knitting app</a> (React, TS, React Router, Tailwind CSS, Firebase)
 
 <h3>Some tools I have used and learnt</h3>
 
